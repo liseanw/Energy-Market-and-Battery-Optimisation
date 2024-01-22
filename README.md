@@ -1,13 +1,16 @@
+# Summary
+This university project aims to develop an algorithm that maximises the revenue of a grid connected battery for two distinct scenarios; with perfect future price visibility (mandatory task, only for VIC) and without future price visibility (bonus task, for all four states provided). External datasets from an energy company were provided to us to optimise our algorithms.
+
 # Energy Market and Battery Optimization
 Group Name:  
 - Wimpy Kids (Group 15)
 
 Group Members:  
-- Chieh-Yu Chao (1077528)
-- Hester Lim Tze Hung (1044793)
-- Kennedy Ker Huan Guok (1039169)
-- Rui Wang (1091883)
-- Li Sean Wong (1074679)
+- Chieh-Yu Chao 
+- Hester Lim Tze Hung 
+- Kennedy Ker Huan Guok 
+- Rui Wang 
+- Li Sean Wong
 
 # Repository Overview
 
